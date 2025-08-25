@@ -16,7 +16,6 @@
 1. Клонировать репозиторий:
    ```bash
    git clone https://github.com/bellatrisa1/lottie-react-native-test-app.git
-   cd LottieTestApp
 1. Установить зависимости:
    ```bash
    npm install
